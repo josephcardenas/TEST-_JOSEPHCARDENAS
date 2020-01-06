@@ -1,0 +1,6 @@
+C:\Users\Joseph\source\repos\FORMULARIO\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\Joseph\source\repos\FORMULARIO\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\Joseph\source\repos\FORMULARIO\NEGOCIO\obj\Debug\NEGOCIO.csprojAssemblyReference.cache
+C:\Users\Joseph\source\repos\FORMULARIO\NEGOCIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\FORMULARIO\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\Joseph\source\repos\FORMULARIO\NEGOCIO\obj\Debug\NEGOCIO.pdb
